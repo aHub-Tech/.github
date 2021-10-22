@@ -1,4 +1,7 @@
-## Hi there 👋
+## Sua comunidade favorita de tecnologia
+### Aqui você encontrará os mais diversos assuntos pertinentes ao mundo de TI, conhecerá diversas pessoas e se divertirá muito enquanto aprende e ensina!
+
+![Quero fazer parte(Discord)](https://www.ahub.tech/discord)
 
 <!--
 
